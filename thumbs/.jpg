@@ -1,0 +1,534 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title> Near Santiago, Chile. Coast line. on Twitpic </title>
+<link rel="stylesheet" type="text/css" href="/css/main.css?1274461185" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://jquery-rotate.googlecode.com/files/jquery.rotate.1-1.js"></script>
+<script src="http://platform.twitter.com/anywhere.js?id=FeB4w6iaI2ICGtL1ZE0jQ&v=1" type="text/javascript"></script>
+<script src="/js/TwitPic_Comments.js?v5" type="text/javascript"></script>
+<script src="/js/TwitPic_Users.js?v2" type="text/javascript"></script>
+</head>
+<body>
+
+	<div id="container">
+		<div id="header">
+			<div id="logo">
+				<a href="/"><img src="/images/logo-main.png"></a>
+			</div>
+			<div id="nav-container">
+
+									<div id="nav-unauth">
+	<div style="float:left;280px;padding:9px;padding-top:14px;font-size:15px;"><a style="text-decoration:none;color:#000000;font-size:15px;" href="/session/new"><b>Click here to login or create an account &rsaquo;</b></a></div>
+	<div style="float:right;width:155px;padding:9px;"><a href="/session/new"><img src="/images/sign-in-with-twitter.png"></a></div>
+	<div style="clear:both;"></div>
+</div>								
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+		
+		<div id="arrow-spacer"></div>
+		
+		<div id="content">
+			<div id="content-standard-pad">
+
+<div id="view-photo-main">
+	<div id="photo" style="position:relative;">
+		
+		<div id="photo-controls" style="display:none;position:absolute;width:600px;height:50px;background-image: url('/images/hud-bg.png');">
+			
+			<div style="padding:15px;"><img src="/images/hud-img-arrow.png"> <a class="nav-link" id="rotate-image" href="#" onClick="$('#photo-display').rotateRight(); return false;" style="color:#ffffff;">Rotate photo</a> &nbsp;&nbsp; <img src="/images/hud-img-plus.png"> <a class="nav-link" href="/15wcx3/full" style="color:#ffffff;">View full size</a></div>
+			
+		</div>
+		
+		<center><img class="photo" id="photo-display" src="http://s3.amazonaws.com/twitpic/photos/large/70373991.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1275152271&Signature=7CaVAbOJRiqmWVKlmapVaAaxMLg%3D"></center>
+		
+		<div id="view-photo-caption">
+		Near Santiago, Chile. Coast line.		</div>
+		
+		<script type="text/javascript" charset="utf-8">
+			$("#photo").hover(
+			  function () {
+				$('#photo-controls').fadeIn(150, function() {
+			    	$("#photo-controls").show();
+			  	});
+			  }, 
+			  function () {
+				$('#photo-controls').fadeOut(150, function() {
+			    	$("#photo-controls").hide();
+			  	});
+			  }
+			);
+			
+						
+			$("#photo-controls").show();
+			$('#photo-controls').fadeOut(2500, function() {
+		    	$("#photo-controls").hide();
+		  	});
+		
+					
+		</script>
+		
+	</div>
+	<div id="photo-comments">
+					<div id="photo-comments-login">
+	<a class="nav-link" href="/login.do?r=http%3A%2F%2Ftwitpic.com%2F15wcx3">Login</a> to leave a comment
+</div>
+			</div>
+	
+		<div id="comments_left">
+		<span class="pagination_total"><span class="num_comments">45</span> Comments</span>
+		
+		<div id="pagination_loader" style="display:none">
+			<img src="/images/ajax-loader.gif" alt="loading" />
+		</div>
+	</div>
+		
+	<div class="comment_pagination">
+			<span class="pagination_wrap">
+		<span class="comment_pagination_first pagination_item" style="display:none;">First</span> 
+
+<span class="comment_pagination_prev pagination_item" style="display:none;">Prev</span> 
+
+<span class="comment_pagination_middle">
+	<span class="comment_pagination_page1 comment_pagination_page pagination_item comment_pagination_active">1</span> 
+	<span class="comment_pagination_page2 comment_pagination_page pagination_item ">2</span> 
+	<span class="comment_pagination_page3 comment_pagination_page pagination_item ">3</span> 
+</span>
+
+<span class="comment_pagination_next pagination_item" >Next</span>
+
+<span class="comment_pagination_last pagination_item" style="display:none;">Last</span>		</span>
+		</div>
+	
+	<div id="photo-comments-content">
+			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1267753706/images/default_profile_4_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/VitoPastorini">VitoPastorini</a> <span class="photo-comment-date" style="">75 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		esto es en la costa de la region de la Araucanía en Chile, se puede ver en primer plano el lago Budi, el rio Cautín e Imperial, y el rio Toltén,al fondo clarmannte se aprecia la ciudad de Temuco (38°45′S 72°40′O) entre los cerros Ñielol y Conun Huenu</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/607761576/a167_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/Fannyta084">Fannyta084</a> <span class="photo-comment-date" style="">76 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		ahi creo que desemboca el Rio Maipo, Arigato Soichi</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1268354287/images/default_profile_4_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/solnunahoja">solnunahoja</a> <span class="photo-comment-date" style="">77 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		increible, pro un momento me hizo dudar cual era el mar, y cual la tierra.
+
+saludos soichi</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/725014284/Me_and_Dad_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/AvaMaria_1970">AvaMaria_1970</a> <span class="photo-comment-date" style="">80 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		Revision, Sorry I am a bit tired tonight: A truly creative individual just wants to make people happy with their gift. This photo art makes me happy. Thank you Soichi for your gift. We truly deeply love you in our hearts.</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/725014284/Me_and_Dad_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/AvaMaria_1970">AvaMaria_1970</a> <span class="photo-comment-date" style="">80 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		A truly creative individual really just wants to make people have with their gift. This photo art makes me happy. Thank you Soichi for your gift.</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1267753706/images/default_profile_4_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/VitoPastorini">VitoPastorini</a> <span class="photo-comment-date" style="">85 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		close enough. Just one thing, this is in Chile but near Temuco, my city. here you can clearly see: Budi Lake, Cautín river, Toltén river, and Temuco (38°45′S 72°40′O) I would love if you could take a closer picture of my city. thank you!</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1267753706/images/default_profile_4_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/VitoPastorini">VitoPastorini</a> <span class="photo-comment-date" style="">85 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		hi astro soichi, this is my first post in twitter, i have to tell you that your pictures are awesome, im sure that you know that, but to see the earth from above through your eyes is a powerful experience, i know that i will never be there, but this is cl</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/773984937/clau_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/clauheaven">clauheaven</a> <span class="photo-comment-date" style="">88 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		HeLlO Mr SoIcHi!! ThAnKs FoR YoUr PiCs!!! ThEy R AmAzInG....PleAsE TaKe A PhOtO Of CoLoMbIa....COLOMBIANS R WAITING ONE COLOMBIA PIC . ThAnKs!!</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/773984937/clau_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/clauheaven">clauheaven</a> <span class="photo-comment-date" style="">88 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		HeLlO Mr SoIcHi!! ThAnKs FoR YoUr PiCs!!! ThEy R AmAzInG....PleAsE TaKe A PhOtO Of CoLoMbIa....COLOMBIANS R WAITING ONE COLOMBIA PIC . ThAnKs!!</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/770304719/Gothic_Girl_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/sharonLFC2010">sharonLFC2010</a> <span class="photo-comment-date" style="">88 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		Near Santiago, Chile. Coast line. lovely</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/720964573/IMG_7339_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/pardalote_flits">pardalote_flits</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		Thank you for sharing this</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/435189978/2the_last_supper_post-restoration_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/jack70_">jack70_</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		生きてるみたい・・・</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/694824954/masutebaria-1_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/masutebaria">masutebaria</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		沢山海を見せていただきましたが、なんとも不思議な海の色ですね。日本にも被害があったのに、こちらの地方では少ない事を祈ります。</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1267135446/images/default_profile_4_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/pistonbreaker">pistonbreaker</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		NICE WORK...</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/722293759/icon1267310024610_normal.jpg">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/peropero69">peropero69</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		チリ沿岸の海が暴れている。宇宙船からの映像は綺麗ですが、地上に降り立つと人類には地獄絵図が待ってるんでしょうね。くわばら!くわばら！</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1269387398/images/default_profile_0_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/haaaaaaal">haaaaaaal</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		海の上の白いのは波？雲がかかってるようにも見え、はっきりしている陸との対比がなんとも不気味に感じます。</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a1.twimg.com/profile_images/801035444/Copyright_C_NamikoFukunaga19820208_Cupola_STS130Endeavour_SomeiYoshino_778778_201004060704aJST_normal.JPG">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/NamikoF">NamikoF</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		"..but beautiful. Estás bien?"http://twitpic.com/15m6n9 Mar 01, 2010 10:38 a.m.JST</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/847774025/on_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/ionpreeya">ionpreeya</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		แตกต่าง</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://s.twimg.com/a/1273875281/images/default_profile_6_normal.png">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/tomokoaurelie">tomokoaurelie</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		ええっ!! 地底と海底で何が起きているの？ We just pray for Chili.</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>			<div class="photo-comment" >
+	<div class="photo-comment-avatar">
+		<img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/686431681/070321_200556_normal.JPG">
+	</div>
+	<div class="photo-comment-body">
+		<div class="photo-comment-info" style="float:left;width:400px;">
+		<a class="nav-link" href="/photos/marmalade222">marmalade222</a> <span class="photo-comment-date" style="">89 days ago</span>
+		</div>
+		
+				
+	<div class="photo-comment-message" style="clear:both;">
+		凄く綺麗。自然の大きな力が宿ってるんですね。</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>		</div>
+	
+	<div class="comment_pagination" style="margin-bottom: 5px;">
+			<span class="pagination_wrap">
+		<span class="comment_pagination_first pagination_item" style="display:none;">First</span> 
+
+<span class="comment_pagination_prev pagination_item" style="display:none;">Prev</span> 
+
+<span class="comment_pagination_middle">
+	<span class="comment_pagination_page1 comment_pagination_page pagination_item comment_pagination_active">1</span> 
+	<span class="comment_pagination_page2 comment_pagination_page pagination_item ">2</span> 
+	<span class="comment_pagination_page3 comment_pagination_page pagination_item ">3</span> 
+</span>
+
+<span class="comment_pagination_next pagination_item" >Next</span>
+
+<span class="comment_pagination_last pagination_item" style="display:none;">Last</span>		</span>
+		</div>
+</div>
+
+<div id="view-photo-sidebar">
+
+	<div id="view-photo-user">
+		<div id="photo-user-avatar"><img class="avatar" width="48" height="48" src="http://a3.twimg.com/profile_images/551299459/sokol-square_normal.jpg"></div>
+		<div id="photo-info">
+			<div>Posted on February 28, 2010</div>
+			<div style="padding-top:3px;">by <a id="photo_username" class="nav-link" style="font-size:16px;" href="/photos/Astro_Soichi">Astro_Soichi</a></div>
+		</div>
+		<div style="clear:both;"></div>
+
+	</div>
+	
+	<div id="view-photo-ad">
+		<iframe width="300" height="250" frameborder="0" scrolling="no" src="http://twitpic.com/ad_box.html">
+			</iframe>
+	</div>
+	
+		
+	<div id="view-photo-more">
+		<div style="padding-bottom:5px;"><b>More photos by Astro_Soichi</b></div>
+
+							<a href="/1s4v08"><img style="border:5px solid #EEEEEE;" src="http://web9.twitpic.com/img/107722232-aac14af44aa0c3ab96e1181b32d273e7.4c014108-mini.jpg"></a>
+							<a href="/1s25cp"><img style="border:5px solid #EEEEEE;" src="http://s3.amazonaws.com/twitpic/photos/mini/107595673.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1275152271&Signature=tSbbLKs6PQ0mDNoaHwm1ncMCcSw%3D"></a>
+							<a href="/1rxqhh"><img style="border:5px solid #EEEEEE;" src="http://s3.amazonaws.com/twitpic/photos/mini/107389781.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1275152271&Signature=0%2BM0Ph17uQyrVi1Y8L7RLy2Reso%3D"></a>
+			
+	</div>
+	
+	<div id="embed-photo" style="margin-top:10px;margin-bottom:20px;">
+		<a class="nav" href="#" onClick="if($('#embedimg').css('display') == 'none') { $('#embedimg').show('fast'); } else { $('#embedimg').hide('fast'); } return false;"><img src="/images/embed-photo.gif" border="0" alt="" /></a>
+		<div id="embedimg" style="display:none;margin-top:5px;padding:7px;background-color:#efefef;">
+			<div style="padding-top:5px;padding-bottom:5px;font-size:12px;font-weight:bold;line-height:15px;color:#555555;">
+			Copy & paste this HTML into your webpage
+			</div>
+
+			<textarea wrap="virtual" onClick="this.select();" style="width:250px;height:60px;padding:2px;font-size:12px;overflow:hidden;border:1px solid #CCCCCC;border-top:2px solid #CCCCCC;">&lt;a href=&quot;http://twitpic.com/15wcx3&quot; title=&quot;Near Santiago, Chile. Coast line. on Twitpic&quot;&gt;&lt;img src=&quot;http://twitpic.com/show/thumb/15wcx3.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; alt=&quot;Near Santiago, Chile. Coast line. on Twitpic&quot;&gt;&lt;/a&gt;</textarea>
+			<div style="padding-top:5px;font-size:12px;line-height:16px;color:#555555;">
+			Remember! Twitpic Community Guidelines specify that if you post a Twitpic photo on an external website, the photo must link back to its photo page.
+			</div>
+		</div>
+	</div>
+	
+	<div id="view-photo-views">
+		<div style="font-size:14px;"><b>Views</b> 19,538</div>
+	</div>
+	
+	<div id="view-photo-tags">
+		
+		<div style="font-size:14px;padding-bottom:7px;"><b>Tags</b> <span style="font-size:11px;">			</span></b>
+		</div>
+				
+		<script type="text/javascript" charset="utf-8">
+
+			$("a#addtagslink").click( function() {
+				$("div#addtags").toggle('fast');
+				return false;
+			});
+
+		</script>
+	
+			
+	</div>
+	
+					
+</div>
+</div>
+
+<div style="clear:both;"></div>
+
+<script type="text/javascript">
+	var comments = new TwitPic_Comments("15wcx3", 3);
+		comments.set_counter_start(98);
+	
+	var users = new TwitPic_Users();
+	
+</script>		</div>
+		
+		<div id="footer">
+			<div id="footer-tag">
+			&copy;2010 Twitpic Inc, All Rights Reserved
+			</div>
+			<div id="footer-links">
+				<a class="footer-link" href="/">Home</a> &nbsp; <a class="footer-link" href="/faq.do">Faq</a> &nbsp; <a class="footer-link" href="/contact.do">Contact</a>  &nbsp; <a class="footer-link" href="http://dev.twitpic.com/">API</a> &nbsp; <a class="footer-link" href="/terms.do">Terms</a>
+			</div>
+			<div style="clear:both;height:25px;">&nbsp;</div>
+		</div>
+		
+	</div>
+	
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-1618034-6");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript">
+	_qoptions={
+	qacct:"p-28dQY-2rVKMYI"
+	};
+	</script>
+	<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+	<noscript>
+	<img src="//secure.quantserve.com/pixel/p-28dQY-2rVKMYI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+	</noscript>
+	<!-- End Quantcast tag -->
+
+	<!-- FM Tracking Pixel -->
+	<script type='text/javascript' src='http://static.fmpub.net/site/twitpic'></script>
+	<!-- FM Tracking Pixel -->
+
+	<script type="text/javascript">
+		 var m6_sid = 56;
+		 var m6_cid = "Astro_Soichi";
+		 var m6_ot = "2";
+	</script>
+
+	<script src="http://cdn.media6degrees.com/static/tw2431.js" type="text/javascript"></script>
+
+	<!-- Generated by web10 -->
+	
+</body>
+</html>
